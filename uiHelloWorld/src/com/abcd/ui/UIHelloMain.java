@@ -17,6 +17,8 @@ public class UIHelloMain {
 	    //Another test	
 		System.out.println("MASTER BRANCH(MEM LEAK fix) - user1");
 		
+		System.out.println("MASTER BRANCH(LIVE LOCK fix) - user1");
+		
 	}
 
 }
