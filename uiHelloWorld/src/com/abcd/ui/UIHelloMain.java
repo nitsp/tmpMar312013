@@ -19,6 +19,8 @@ public class UIHelloMain {
 		
 		System.out.println("MASTER BRANCH(LIVE LOCK fix) - user1");
 		
+
+		System.out.println("DATABASE BRANCH(LIVE LOCK BETTER fix) - user2");
 	}
 
 }
